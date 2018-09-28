@@ -1,5 +1,4 @@
 ﻿# mysql senior
-[toc]
 ## insert mysql 1000W data
 ### achieved by sql
 1. requirement
